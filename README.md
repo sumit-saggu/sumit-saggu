@@ -23,8 +23,8 @@
 
 ### 🌐 Let’s Connect!
 - 📫 Email: [sumitsaggu2005@gmail.com](mailto:sumitsaggu2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sumit-kumar-674656306](https://www.linkedin.com/in/sumit-saggu)  
-- 🌟 Portfolio: [portfoliyo-g730.onrender.com](https://portfoliyo-g730.onrender.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumit-saggu)  
+- 🌟 [Portfolio](https://portfoliyo-g730.onrender.com)
 
 ---
 
