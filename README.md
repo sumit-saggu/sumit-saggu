@@ -7,9 +7,9 @@
 ---
 
 ### 🧠 Skills & Tools:
-- **Languages:** Python, JavaScript, MySQL, Java, C++
-- **Tools:** Streamlit, Git, GitHub, HTML, CSS, VS Code
-- **Concepts:** Backend Dev, Data Analysis, Web Scraping, OOP, DSA
+- **Languages:** Python, streamlit, JavaScript, MySQL, Java, C++,node.js,react.js
+- **Tools:** Git, GitHub, HTML, CSS, VS Code
+- **Concepts:** Fronend Dev, Data Analysis, Web Scraping, OOP, DSA
 
 ---
 
