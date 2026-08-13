@@ -1,6 +1,6 @@
 # I'm Sumit Kumar
 
-🎓 I'm currently pursuing my **BCA** (5th semester)  
+🎓 BCA Graduated
 💻 A self-motivated **Machine Learning & Web Developer**  
 🚀 Passionate about building real-time dashboards, automating tasks, and solving problems through code
 
@@ -23,7 +23,7 @@
 
 ### 🌐 Let’s Connect!
 - 📫 Email: [sumitsaggu2005@gmail.com](mailto:sumitsaggu2005@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumit-saggu)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sumitsaggu)  
 - 🌟 [Portfolio](https://portfoliyo-g730.onrender.com)
 
 ---
